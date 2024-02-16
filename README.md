@@ -31,7 +31,7 @@ Android
 
 Ссылка на скринкат | Описание
 --- | ---
-!https://youtube.com/shorts/U5XuFJJ6lCg?si=p6DhOPOd7vyLMbvt | многостраничный интерфейс
-!https://youtube.com/shorts/HJTCsqfMjB0?si=3vM4itYKSAGttUtw | поиск по приложению
-!https://youtube.com/shorts/6Q56Qrl7CjY?si=m3r0OsHGfuE6DUZk | переход по внешним ссылкам
-!https://youtube.com/shorts/azSA7qVB5Fw?si=0VILRo4pkm4wXbkd | свободный зум изображений 
+https://youtube.com/shorts/U5XuFJJ6lCg?si=p6DhOPOd7vyLMbvt | многостраничный интерфейс
+https://youtube.com/shorts/HJTCsqfMjB0?si=3vM4itYKSAGttUtw | поиск по приложению
+https://youtube.com/shorts/6Q56Qrl7CjY?si=m3r0OsHGfuE6DUZk | переход по внешним ссылкам
+https://youtube.com/shorts/azSA7qVB5Fw?si=0VILRo4pkm4wXbkd | свободный зум изображений 
