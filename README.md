@@ -29,7 +29,7 @@ Android
 
 ## Скринкаст:
 
-Ссылка на скринкат | Описание
+Ссылка на скринкаcт | Описание
 --- | ---
 https://youtube.com/shorts/U5XuFJJ6lCg?si=p6DhOPOd7vyLMbvt | многостраничный интерфейс
 https://youtube.com/shorts/HJTCsqfMjB0?si=3vM4itYKSAGttUtw | поиск по приложению
